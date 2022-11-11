@@ -303,7 +303,7 @@ ANS  numbers=[120,500,82,60,562,357,159,258,456]
 
                   break
 
-        print(ele)
+          print(ele)
 
     OuTPUT
           120
